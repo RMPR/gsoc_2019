@@ -24,6 +24,7 @@ https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-SMB2/%
 - [week 9](https://lists.samba.org/archive/samba-technical/2019-August/134064.html)
 - [week 10](https://lists.samba.org/archive/samba-technical/2019-August/134093.html)
 - [week 11](https://RMPR.github.io/gsoc_2019)
+
 ***
 ### Let's start from the beginning 
 All started with this very small [pull request](https://github.com/aaptel/smbcmp/pull/2) where I was still trying to figure out what the code does, I had no prior experience with smb* protocol but a little with wireshark and it's cli tool tshark.
