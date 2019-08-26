@@ -92,7 +92,7 @@ Finally, I would thank any of my fellow gsocers, particularly WSCP, Sarfaraz Ira
 
 ***
 ### Final Note
- I made a lot of mistakes: messing with the github repos by pushing to my master branch, messing with my OS by installing nvidia drivers while not really relevant at that time (I had to set up the dev environment a second time after that), writing not the most readable code (use of plain eq to compare strings, static classes when not needed), lack of motivation sometimes, being irregular in posting weekly reports on the mailing list, ... this list is not exhaustive, and for all this just want to apologize.
+ I made a lot of mistakes: messing with the github repos by pushing to my master branch, messing with my OS by installing nvidia drivers while not really relevant at that time (I had to set up the dev environment a second time after that), writing not the most readable code (use of plain eq to compare strings, static classes when not needed), lack of motivation sometimes, being irregular in posting weekly reports on the mailing list, ... this list is not exhaustive, and for all this I just want to apologize.
  
 #### SMB2 Specification
 https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-SMB2/%5bMS-SMB2%5d.pdf
