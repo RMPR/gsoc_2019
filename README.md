@@ -9,7 +9,9 @@ Mairo Paul Rufus
 ### Abstract
 Smbcmp is a cli tool for making diffs between two pcap files containing SMB packets and rendering them using curses. The first part of the project was to make better diffs by using the pdml output of Tshark and the second part was to add a GUI and port it to windows.
 [Read full initial proposal](https://drive.google.com/open?id=1GTEwFOPJCv53DQpQ8lLEa7qpnHRQpMzq)
+
 ***
+
 ### Important Links
 #### Repositories:
 - https://github.com/RMPR/smbcmp
