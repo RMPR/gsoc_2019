@@ -70,6 +70,8 @@ I ended up choosing wxPython because of its fully open source licence (not the c
 - **Demo**
 
     ![demo](https://raw.githubusercontent.com/RMPR/gsoc_2019/master/res/final.gif)
+    
+The code for this part is available on my [branch](https://github.com/RMPR/smbcmp/commits/smbcmp-module)
 
 #### Port to windows 
 Porting to Windows was a relatively simple task as smbcmp doesn't have many dependencies (python, curses, tshark and wxwidget4) and they are all available on Windows. My mentor and I have produced a working proof-of-concept Windows build which isn't publicly available yet but that will soon be properly released.
